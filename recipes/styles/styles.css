@@ -1,0 +1,28 @@
+.button-link {
+    display: block;
+    padding: 10px 20px;
+    margin: 0px
+    background-color: #698b42;
+    color: white;
+    text-align: center;
+
+}
+.image {
+    display: block;
+    border-radius: 5px;
+    border: 2px solid #4CAF50;
+    margin: 0px auto;
+}
+body {
+    background-color: #572020;
+}
+.heading {
+    display: block;
+    text-align: center;
+    color: black;
+    background-color: #d2da6d;
+    margin-right: 700px;
+    padding: 20px;
+    margin-top: -10px;
+    margin-left: -10px;
+}
